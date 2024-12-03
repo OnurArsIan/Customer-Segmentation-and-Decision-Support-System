@@ -18,6 +18,22 @@ This project is a Customer Segmentation and Decision Support System developed us
 - **Pandas**: For data manipulation and preprocessing.
 - **Scikit-learn**: For feature scaling, encoding, and model training.
 
+## Dataset
+
+The dataset used for this project contains customer information such as:
+- **Gender**: The gender of the customer (Male/Female).
+- **Age Group**: The age group of the customer.
+- **Marital Status**: The marital status of the customer (Single/Married).
+- **Education Level**: The highest education level achieved by the customer.
+- **Employment Status**: The employment status (Employed/Unemployed/Self-Employed).
+- **Average Annual Income**: The average annual income of the customer.
+- **City of Residence**: Type of city where the customer resides (Urban/Rural).
+- **Product Interests**: Interests in specific product categories (e.g., Electronics, Fashion, Household).
+- **Purchase and Order Data**: The number of purchases and orders made by the customer.
+- **Education Continuation Status**: Whether the customer is continuing education or not.
+
+The dataset is used to categorize customers based on their shopping habits, and it forms the basis for providing personalized financial and product recommendations.
+
 ## Installation
 
 1. Clone the repository:
@@ -83,7 +99,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue for discussion.
 
-## Contact
 
-For any questions or suggestions, please reach out at [your_email@example.com].
+![Ekran görüntüsü 2024-12-03 053401](https://github.com/user-attachments/assets/7f793322-4ec8-494c-af08-95d2aae79150)
 
